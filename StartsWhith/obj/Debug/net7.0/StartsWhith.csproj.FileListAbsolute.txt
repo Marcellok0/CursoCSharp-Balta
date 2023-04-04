@@ -1,0 +1,15 @@
+C:\dev\StartsWhith\bin\Debug\net7.0\StartsWhith.exe
+C:\dev\StartsWhith\bin\Debug\net7.0\StartsWhith.deps.json
+C:\dev\StartsWhith\bin\Debug\net7.0\StartsWhith.runtimeconfig.json
+C:\dev\StartsWhith\bin\Debug\net7.0\StartsWhith.dll
+C:\dev\StartsWhith\bin\Debug\net7.0\StartsWhith.pdb
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.csproj.AssemblyReference.cache
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.AssemblyInfoInputs.cache
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.AssemblyInfo.cs
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.csproj.CoreCompileInputs.cache
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.dll
+C:\dev\StartsWhith\obj\Debug\net7.0\refint\StartsWhith.dll
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.pdb
+C:\dev\StartsWhith\obj\Debug\net7.0\StartsWhith.genruntimeconfig.cache
+C:\dev\StartsWhith\obj\Debug\net7.0\ref\StartsWhith.dll

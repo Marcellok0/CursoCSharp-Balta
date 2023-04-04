@@ -1,0 +1,15 @@
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.csproj.AssemblyReference.cache
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.AssemblyInfoInputs.cache
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.AssemblyInfo.cs
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.csproj.CoreCompileInputs.cache
+C:\dev\compareto\bin\Debug\net7.0\CompareTo.exe
+C:\dev\compareto\bin\Debug\net7.0\CompareTo.deps.json
+C:\dev\compareto\bin\Debug\net7.0\CompareTo.runtimeconfig.json
+C:\dev\compareto\bin\Debug\net7.0\CompareTo.dll
+C:\dev\compareto\bin\Debug\net7.0\CompareTo.pdb
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.dll
+C:\dev\compareto\obj\Debug\net7.0\refint\CompareTo.dll
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.pdb
+C:\dev\compareto\obj\Debug\net7.0\CompareTo.genruntimeconfig.cache
+C:\dev\compareto\obj\Debug\net7.0\ref\CompareTo.dll

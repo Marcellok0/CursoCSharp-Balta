@@ -1,0 +1,15 @@
+C:\dev\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.exe
+C:\dev\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.deps.json
+C:\dev\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.runtimeconfig.json
+C:\dev\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.dll
+C:\dev\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.pdb
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.csproj.AssemblyReference.cache
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.AssemblyInfoInputs.cache
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.AssemblyInfo.cs
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.dll
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\refint\ManipulandoStrings.dll
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.pdb
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.genruntimeconfig.cache
+C:\dev\ManipulandoStrings\obj\Debug\net7.0\ref\ManipulandoStrings.dll

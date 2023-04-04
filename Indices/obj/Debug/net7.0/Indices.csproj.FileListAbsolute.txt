@@ -1,0 +1,15 @@
+C:\dev\Indices\bin\Debug\net7.0\Indices.exe
+C:\dev\Indices\bin\Debug\net7.0\Indices.deps.json
+C:\dev\Indices\bin\Debug\net7.0\Indices.runtimeconfig.json
+C:\dev\Indices\bin\Debug\net7.0\Indices.dll
+C:\dev\Indices\bin\Debug\net7.0\Indices.pdb
+C:\dev\Indices\obj\Debug\net7.0\Indices.csproj.AssemblyReference.cache
+C:\dev\Indices\obj\Debug\net7.0\Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Indices\obj\Debug\net7.0\Indices.AssemblyInfoInputs.cache
+C:\dev\Indices\obj\Debug\net7.0\Indices.AssemblyInfo.cs
+C:\dev\Indices\obj\Debug\net7.0\Indices.csproj.CoreCompileInputs.cache
+C:\dev\Indices\obj\Debug\net7.0\Indices.dll
+C:\dev\Indices\obj\Debug\net7.0\refint\Indices.dll
+C:\dev\Indices\obj\Debug\net7.0\Indices.pdb
+C:\dev\Indices\obj\Debug\net7.0\Indices.genruntimeconfig.cache
+C:\dev\Indices\obj\Debug\net7.0\ref\Indices.dll
